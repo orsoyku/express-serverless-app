@@ -1,4 +1,5 @@
 # Express App
+> Serverless Node app.
 
 ## Requirements
 
